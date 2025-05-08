@@ -1,6 +1,6 @@
 After cloning the repo in your local add "models","db" folders to it.
 
-Download "mistral-7b-instruct-v0.1.Q4_K_M.gguf" file and paste it in "models" folder.
+Download "mistral-7b-instruct-v0.1.Q4_K_M.gguf"  file (https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/tree/main) and paste it in "models" folder.
 
 File structure:
 
