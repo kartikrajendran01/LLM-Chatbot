@@ -3,6 +3,7 @@ Download "mistral-7b-instruct-v0.1.Q4_K_M.gguf" file and paste it in "models" fo
 File structure:
 pdf-chatbot/
 ├── app.py
+
 ├── llm_setup.py
 ├── pdf_utils.py
 ├── vector_store.py
