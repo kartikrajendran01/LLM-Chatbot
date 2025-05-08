@@ -17,6 +17,6 @@ pdf-chatbot/
 
 ├── models/
 
-│   └── mistral-7b-instruct-v0.1.Q4_K_M.gguf / tinyllama.gguf   # Your downloaded TinyLlama GGUF model
+              └── mistral-7b-instruct-v0.1.Q4_K_M.gguf / tinyllama.gguf   # Your downloaded TinyLlama GGUF model
 
 └── db/                  # Vectorstore persistence
